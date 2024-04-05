@@ -1,8 +1,3 @@
-# nextJS-14
-nextJS-14
-
-Ref:https://www.youtube.com/watch?v=LI3LS7Pvt4A&list=PLSw2mlMYG5MJd7UUZmH0T87_VmjT-qpEy&index=1&ab_channel=ProgrammingAndrew
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
